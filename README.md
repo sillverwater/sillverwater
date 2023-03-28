@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8E0E6,100:F7819F&height=250&section=header&text=welcome&fontSize=85&fontAlignY=40&desc=sillverwater's%20Github%20Profile&descSize=17&descAlign=60&descAlignY=55&fontColor=605E5B)
 
-<h3 align="center">📫Connect with me📫</h3>
-<h5 align="center">Email: **hkhk0331@gamil.com**</h5>
+<h3 align="center">📫Email📫</h3>
+<h5 align="center">**hkhk0331@gamil.com**</h5>
+<h3 align="center">🌸Connect with me🌸</h3>
 <p align="center">
 <a href="https://kaggle.com/silverwater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="silverwater" height="30" width="40" /></a>
 <a href="https://instagram.com/sillverwater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sillverwater" height="30" width="40" /></a>
