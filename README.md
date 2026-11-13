@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D6,100:F7819F&height=150&section=header&text=Eunsu%20Yun&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Computer%20Vision%20%C2%B7%20On-device%20AI&descSize=20&descAlignY=60" width="100%" alt="Eunsu Yun"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D6,100:F7819F&height=150&section=header&text=Eunsu%20Yun&fontSize=72&fontColor=ffffff&fontAlignY=35&descSize=20&descAlignY=60" width="100%" alt="Eunsu Yun"/>
 
 <a href="https://sillverwater.github.io"><img src="https://img.shields.io/badge/Portfolio-EEEEEE?style=for-the-badge&logo=githubpages&logoColor=333333" height="35" alt="Portfolio"/></a>
 <a href="https://sillverwater.github.io/assets/cv.pdf"><img src="https://img.shields.io/badge/CV-EEEEEE?style=for-the-badge&logo=adobeacrobatreader&logoColor=333333" height="35" alt="CV"/></a>
