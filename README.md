@@ -1,27 +1,44 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8E0E6,100:F7819F&height=250&section=header&text=welcome&fontSize=85&fontAlignY=40&desc=sillverwater's%20Github%20Profile&descSize=17&descAlign=60&descAlignY=55&fontColor=605E5B)
+<div align="center">
 
-<h3 align="center">📫Email📫</h3>
-<h5 align="center">**hkhk0331@gamil.com**</h5>
-<h3 align="center">☁️Connect with me☁️</h3>
-<p align="center">
-<a href="https://kaggle.com/silverwater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="silverwater" height="30" width="40" /></a>
-<a href="https://instagram.com/sillverwater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sillverwater" height="30" width="40" /></a>
-</p>
-<h3 align="center">⚒️Languages and Tools⚒️</h3>
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
-<br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sillverwater&show_icons=true&title_color=F7819F&icon_color=F7819F&locale=en" alt="sillverwater" /></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D6,100:F7819F&height=150&section=header&text=Eunsu%20Yun&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Computer%20Vision%20%C2%B7%20On-device%20AI&descSize=20&descAlignY=60" width="100%" alt="Eunsu Yun"/>
+
+<a href="https://sillverwater.github.io"><img src="https://img.shields.io/badge/Portfolio-EEEEEE?style=for-the-badge&logo=githubpages&logoColor=333333" height="35" alt="Portfolio"/></a>
+<a href="https://sillverwater.github.io/assets/cv.pdf"><img src="https://img.shields.io/badge/CV-EEEEEE?style=for-the-badge&logo=adobeacrobatreader&logoColor=333333" height="35" alt="CV"/></a>
+<a href="mailto:hkhk0331@gmail.com"><img src="https://img.shields.io/badge/Email-EEEEEE?style=for-the-badge&logo=gmail&logoColor=333333" height="35" alt="Email"/></a>
+
+#### 🔬 Research Interests
+**Computer Vision** &nbsp;·&nbsp; **On-device AI**
+
+#### 🎓 Education
+**M.S.** · Computer Science<br/>
+**B.S.** · Convergence Electronic Engineering & Human Intelligence Information Engineering (Double Major)
+
+#### 🛠 Skills
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/FuriosaAI-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kneron-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mythic-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D6,100:F7819F&height=60&section=footer" width="100%"/>
+
+</div>
