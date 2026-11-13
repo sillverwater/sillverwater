@@ -6,14 +6,14 @@
 <a href="https://sillverwater.github.io/assets/cv.pdf"><img src="https://img.shields.io/badge/CV-EEEEEE?style=for-the-badge&logo=adobeacrobatreader&logoColor=333333" height="35" alt="CV"/></a>
 <a href="mailto:hkhk0331@gmail.com"><img src="https://img.shields.io/badge/Email-EEEEEE?style=for-the-badge&logo=gmail&logoColor=333333" height="35" alt="Email"/></a>
 
-#### 🔬 Research Interests
+#### 🔬 Research Interests 🔬
 **Computer Vision** &nbsp;·&nbsp; **On-device AI**
 
-#### 🎓 Education
+#### 🎓 Education 🎓
 **M.S.**  Computer Science<br/>
 **B.S.**  Convergence Electronic Engineering & Human Intelligence Information Engineering
 
-#### 🛠 Skills
+#### 🛠 Skills 🛠
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
