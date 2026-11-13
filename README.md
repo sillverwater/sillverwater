@@ -10,8 +10,8 @@
 **Computer Vision** &nbsp;·&nbsp; **On-device AI**
 
 #### 🎓 Education
-**M.S.** · Computer Science<br/>
-**B.S.** · Convergence Electronic Engineering & Human Intelligence Information Engineering
+**M.S.**  Computer Science<br/>
+**B.S.**  Convergence Electronic Engineering & Human Intelligence Information Engineering
 
 #### 🛠 Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
